@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodlamaioCamp", "KodlamaioCamp\KodlamaioCamp.csproj", "{B6733AA6-9999-4251-A936-C83C36327AC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KodlamaioCamp", "KodlamaioCamp\KodlamaioCamp.csproj", "{B6733AA6-9999-4251-A936-C83C36327AC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{F44C613D-5B52-45A6-8F44-C87E0151CA5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{060E9D5F-5439-4D43-B14F-26AAD6F047F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{B6733AA6-9999-4251-A936-C83C36327AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6733AA6-9999-4251-A936-C83C36327AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6733AA6-9999-4251-A936-C83C36327AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44C613D-5B52-45A6-8F44-C87E0151CA5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44C613D-5B52-45A6-8F44-C87E0151CA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44C613D-5B52-45A6-8F44-C87E0151CA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44C613D-5B52-45A6-8F44-C87E0151CA5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060E9D5F-5439-4D43-B14F-26AAD6F047F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060E9D5F-5439-4D43-B14F-26AAD6F047F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060E9D5F-5439-4D43-B14F-26AAD6F047F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060E9D5F-5439-4D43-B14F-26AAD6F047F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
