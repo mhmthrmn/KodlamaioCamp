@@ -11,6 +11,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\Cl
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonAppDay1", "PythonAppDay1\PythonAppDay1.pyproj", "{B8EA2791-56EB-47BD-A70E-298038A83A85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{1BA6AB38-03E9-45A4-81D6-A5C55CB89867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{F4CFA485-5485-48F8-97C4-5FA4DBC2286C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerveReferansTipler", "DegerveReferansTipler\DegerveReferansTipler.csproj", "{137C4209-3D2F-4A0B-8A52-28A2BFE35BDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +37,18 @@ Global
 		{060E9D5F-5439-4D43-B14F-26AAD6F047F0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B8EA2791-56EB-47BD-A70E-298038A83A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B8EA2791-56EB-47BD-A70E-298038A83A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA6AB38-03E9-45A4-81D6-A5C55CB89867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA6AB38-03E9-45A4-81D6-A5C55CB89867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA6AB38-03E9-45A4-81D6-A5C55CB89867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA6AB38-03E9-45A4-81D6-A5C55CB89867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4CFA485-5485-48F8-97C4-5FA4DBC2286C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CFA485-5485-48F8-97C4-5FA4DBC2286C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CFA485-5485-48F8-97C4-5FA4DBC2286C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CFA485-5485-48F8-97C4-5FA4DBC2286C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{137C4209-3D2F-4A0B-8A52-28A2BFE35BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137C4209-3D2F-4A0B-8A52-28A2BFE35BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137C4209-3D2F-4A0B-8A52-28A2BFE35BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137C4209-3D2F-4A0B-8A52-28A2BFE35BDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
