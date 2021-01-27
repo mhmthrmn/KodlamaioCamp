@@ -22,5 +22,15 @@ namespace GenericsIntro
             }
             elemanlar[elemanlar.Length - 1] = eleman;
         }
+
+        public int Length
+        {
+            get { return elemanlar.Length; }
+        }
+
+        public T[] Elemanlar
+        {
+            get { return elemanlar; }
+        }
     }
 }
