@@ -1,0 +1,13 @@
+RDBMS - Oracle SqlServer MySql Postgresql Access - ANSI Sql - PISql,T-Sql - Normalisation
+NoSql - MongoDB Firebase
+
+
+ID    CityID      FirstName   LastName    City
+1       1         Engin       Demiroğ     Ankara
+2
+3
+
+
+Primary Key
+Unique Key
+Foreign Key
